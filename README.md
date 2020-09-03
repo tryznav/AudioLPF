@@ -10,4 +10,4 @@ Short description of the program:
 - there is notebook FFTViewer.ipynb to select the desired cutoff frequency
 
 The physics of whistling in a microphone
-- the physics of whistling in a microphone re-reflected and amplified in the signal.
+- high frequencies are re-reflected, which causes the amplitude of the corresponding high frequencies to increase the signal
